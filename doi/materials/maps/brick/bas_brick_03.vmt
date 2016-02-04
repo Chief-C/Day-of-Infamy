@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "maps\brick\bas_brick_03"
+	"$bumpmap" "maps\brick\bas_brick_03_norm"
+	"$surfaceprop" "concrete"
+	"%keywords" "ins2,doi"
+}

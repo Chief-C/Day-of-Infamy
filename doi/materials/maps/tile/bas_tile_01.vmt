@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+"$basetexture" 			"maps/tile/bas_tile_01"
+//"$bumpmap" 			"maps/tile/bas_tile_01_norm"
+"$envmapmask" 			"maps/tile/bas_tile_01_spec"
+"$envmap" 			"env_cubemap"
+"$envmapsaturation" 		".6"
+"$envmapcontrast" 			".8"
+"$envmaptint" 			"[.6 .6 .6]"
+"$surfaceprop" 			"tile"
+"$nodiffusebumplighting" 		"1"
+"$detail" 				"detail\plaster_detail_01"
+"$detailscale" 			"15"
+"$detailblendfactor" 		".5"
+"%keywords" 			"ins2,doi"
+}

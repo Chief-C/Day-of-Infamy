@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" 	"maps\plaster\bas_plaster_07"
+	"$bumpmap" 	"maps\plaster\bas_plaster_07_norm"
+	"$surfaceprop" 	"plaster"
+	"%keywords" 	"ins2,doi"
+}

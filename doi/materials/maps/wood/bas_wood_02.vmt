@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" 	"maps/wood/bas_wood_02"
+	"$bumpmap" 	"maps/wood/bas_wood_02_norm"
+	"$surfaceprop" 	"wood"
+	"%keywords" 	"ins2,ww2"
+}

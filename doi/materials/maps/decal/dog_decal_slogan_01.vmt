@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "maps/decal/dog_decal_slogan_01"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"$surfaceprop" "wood"
+	"%keywords" "ins2,doi"
+}

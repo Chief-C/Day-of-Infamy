@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" 	"maps\wall\bas_exterior_01"
+	"$bumpmap" 	"maps\wall\bas_exterior_01_norm"
+	"$surfaceprop" 	"concrete"
+	"%keywords" 	"ins2,doi"
+}
